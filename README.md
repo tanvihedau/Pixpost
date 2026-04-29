@@ -93,7 +93,7 @@ npm run dev
 |--------|----------|-------------|
 | `POST` | `/create-post` | Upload an image and caption to create a post |
 | `GET` | `/posts` | Retrieve all posts |
-| `DELETE` | `/posts/:id` | Delete a post by ID |
+
 
 ### `POST /create-post`
 
